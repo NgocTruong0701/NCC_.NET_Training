@@ -1,0 +1,15 @@
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\Polyphism\bin\Debug\net7.0\Polyphism.exe
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\Polyphism\bin\Debug\net7.0\Polyphism.deps.json
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\Polyphism\bin\Debug\net7.0\Polyphism.runtimeconfig.json
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\Polyphism\bin\Debug\net7.0\Polyphism.dll
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\Polyphism\bin\Debug\net7.0\Polyphism.pdb
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\Polyphism\obj\Debug\net7.0\Polyphism.csproj.AssemblyReference.cache
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\Polyphism\obj\Debug\net7.0\Polyphism.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\Polyphism\obj\Debug\net7.0\Polyphism.AssemblyInfoInputs.cache
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\Polyphism\obj\Debug\net7.0\Polyphism.AssemblyInfo.cs
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\Polyphism\obj\Debug\net7.0\Polyphism.csproj.CoreCompileInputs.cache
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\Polyphism\obj\Debug\net7.0\Polyphism.dll
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\Polyphism\obj\Debug\net7.0\refint\Polyphism.dll
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\Polyphism\obj\Debug\net7.0\Polyphism.pdb
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\Polyphism\obj\Debug\net7.0\Polyphism.genruntimeconfig.cache
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\Polyphism\obj\Debug\net7.0\ref\Polyphism.dll

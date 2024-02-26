@@ -1,0 +1,15 @@
+E:\WorkSpace\NCC\Trainning_NET\Source_code\ASP.NET_Core-API\Client_API_1\bin\Debug\net7.0\Client_API_1.exe
+E:\WorkSpace\NCC\Trainning_NET\Source_code\ASP.NET_Core-API\Client_API_1\bin\Debug\net7.0\Client_API_1.deps.json
+E:\WorkSpace\NCC\Trainning_NET\Source_code\ASP.NET_Core-API\Client_API_1\bin\Debug\net7.0\Client_API_1.runtimeconfig.json
+E:\WorkSpace\NCC\Trainning_NET\Source_code\ASP.NET_Core-API\Client_API_1\bin\Debug\net7.0\Client_API_1.dll
+E:\WorkSpace\NCC\Trainning_NET\Source_code\ASP.NET_Core-API\Client_API_1\bin\Debug\net7.0\Client_API_1.pdb
+E:\WorkSpace\NCC\Trainning_NET\Source_code\ASP.NET_Core-API\Client_API_1\obj\Debug\net7.0\Client_API_1.csproj.AssemblyReference.cache
+E:\WorkSpace\NCC\Trainning_NET\Source_code\ASP.NET_Core-API\Client_API_1\obj\Debug\net7.0\Client_API_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\NCC\Trainning_NET\Source_code\ASP.NET_Core-API\Client_API_1\obj\Debug\net7.0\Client_API_1.AssemblyInfoInputs.cache
+E:\WorkSpace\NCC\Trainning_NET\Source_code\ASP.NET_Core-API\Client_API_1\obj\Debug\net7.0\Client_API_1.AssemblyInfo.cs
+E:\WorkSpace\NCC\Trainning_NET\Source_code\ASP.NET_Core-API\Client_API_1\obj\Debug\net7.0\Client_API_1.csproj.CoreCompileInputs.cache
+E:\WorkSpace\NCC\Trainning_NET\Source_code\ASP.NET_Core-API\Client_API_1\obj\Debug\net7.0\Client_API_1.dll
+E:\WorkSpace\NCC\Trainning_NET\Source_code\ASP.NET_Core-API\Client_API_1\obj\Debug\net7.0\refint\Client_API_1.dll
+E:\WorkSpace\NCC\Trainning_NET\Source_code\ASP.NET_Core-API\Client_API_1\obj\Debug\net7.0\Client_API_1.pdb
+E:\WorkSpace\NCC\Trainning_NET\Source_code\ASP.NET_Core-API\Client_API_1\obj\Debug\net7.0\Client_API_1.genruntimeconfig.cache
+E:\WorkSpace\NCC\Trainning_NET\Source_code\ASP.NET_Core-API\Client_API_1\obj\Debug\net7.0\ref\Client_API_1.dll

@@ -1,0 +1,15 @@
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\Project_OOP\bin\Debug\net7.0\Project_OOP.exe
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\Project_OOP\bin\Debug\net7.0\Project_OOP.deps.json
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\Project_OOP\bin\Debug\net7.0\Project_OOP.runtimeconfig.json
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\Project_OOP\bin\Debug\net7.0\Project_OOP.dll
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\Project_OOP\bin\Debug\net7.0\Project_OOP.pdb
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\Project_OOP\obj\Debug\net7.0\Project_OOP.csproj.AssemblyReference.cache
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\Project_OOP\obj\Debug\net7.0\Project_OOP.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\Project_OOP\obj\Debug\net7.0\Project_OOP.AssemblyInfoInputs.cache
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\Project_OOP\obj\Debug\net7.0\Project_OOP.AssemblyInfo.cs
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\Project_OOP\obj\Debug\net7.0\Project_OOP.csproj.CoreCompileInputs.cache
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\Project_OOP\obj\Debug\net7.0\Project_OOP.dll
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\Project_OOP\obj\Debug\net7.0\refint\Project_OOP.dll
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\Project_OOP\obj\Debug\net7.0\Project_OOP.pdb
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\Project_OOP\obj\Debug\net7.0\Project_OOP.genruntimeconfig.cache
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\Project_OOP\obj\Debug\net7.0\ref\Project_OOP.dll

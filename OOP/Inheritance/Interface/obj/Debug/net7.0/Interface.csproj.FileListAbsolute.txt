@@ -1,0 +1,15 @@
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\Inheritance\Interface\bin\Debug\net7.0\Interface.exe
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\Inheritance\Interface\bin\Debug\net7.0\Interface.deps.json
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\Inheritance\Interface\bin\Debug\net7.0\Interface.runtimeconfig.json
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\Inheritance\Interface\bin\Debug\net7.0\Interface.dll
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\Inheritance\Interface\bin\Debug\net7.0\Interface.pdb
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\Inheritance\Interface\obj\Debug\net7.0\Interface.csproj.AssemblyReference.cache
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\Inheritance\Interface\obj\Debug\net7.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\Inheritance\Interface\obj\Debug\net7.0\Interface.AssemblyInfoInputs.cache
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\Inheritance\Interface\obj\Debug\net7.0\Interface.AssemblyInfo.cs
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\Inheritance\Interface\obj\Debug\net7.0\Interface.csproj.CoreCompileInputs.cache
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\Inheritance\Interface\obj\Debug\net7.0\Interface.dll
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\Inheritance\Interface\obj\Debug\net7.0\refint\Interface.dll
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\Inheritance\Interface\obj\Debug\net7.0\Interface.pdb
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\Inheritance\Interface\obj\Debug\net7.0\Interface.genruntimeconfig.cache
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\Inheritance\Interface\obj\Debug\net7.0\ref\Interface.dll

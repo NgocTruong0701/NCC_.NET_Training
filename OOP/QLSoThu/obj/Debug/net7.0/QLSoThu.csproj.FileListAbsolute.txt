@@ -1,0 +1,15 @@
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\QLSoThu\bin\Debug\net7.0\QLSoThu.exe
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\QLSoThu\bin\Debug\net7.0\QLSoThu.deps.json
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\QLSoThu\bin\Debug\net7.0\QLSoThu.runtimeconfig.json
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\QLSoThu\bin\Debug\net7.0\QLSoThu.dll
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\QLSoThu\bin\Debug\net7.0\QLSoThu.pdb
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\QLSoThu\obj\Debug\net7.0\QLSoThu.csproj.AssemblyReference.cache
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\QLSoThu\obj\Debug\net7.0\QLSoThu.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\QLSoThu\obj\Debug\net7.0\QLSoThu.AssemblyInfoInputs.cache
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\QLSoThu\obj\Debug\net7.0\QLSoThu.AssemblyInfo.cs
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\QLSoThu\obj\Debug\net7.0\QLSoThu.csproj.CoreCompileInputs.cache
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\QLSoThu\obj\Debug\net7.0\QLSoThu.dll
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\QLSoThu\obj\Debug\net7.0\refint\QLSoThu.dll
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\QLSoThu\obj\Debug\net7.0\QLSoThu.pdb
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\QLSoThu\obj\Debug\net7.0\QLSoThu.genruntimeconfig.cache
+E:\WorkSpace\NCC\Trainning_NET\Source_code\OOP\QLSoThu\obj\Debug\net7.0\ref\QLSoThu.dll

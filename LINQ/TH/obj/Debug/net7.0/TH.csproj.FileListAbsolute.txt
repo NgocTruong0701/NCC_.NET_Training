@@ -1,0 +1,15 @@
+E:\WorkSpace\NCC\Trainning_NET\Source_code\LINQ\TH\bin\Debug\net7.0\TH.exe
+E:\WorkSpace\NCC\Trainning_NET\Source_code\LINQ\TH\bin\Debug\net7.0\TH.deps.json
+E:\WorkSpace\NCC\Trainning_NET\Source_code\LINQ\TH\bin\Debug\net7.0\TH.runtimeconfig.json
+E:\WorkSpace\NCC\Trainning_NET\Source_code\LINQ\TH\bin\Debug\net7.0\TH.dll
+E:\WorkSpace\NCC\Trainning_NET\Source_code\LINQ\TH\bin\Debug\net7.0\TH.pdb
+E:\WorkSpace\NCC\Trainning_NET\Source_code\LINQ\TH\obj\Debug\net7.0\TH.csproj.AssemblyReference.cache
+E:\WorkSpace\NCC\Trainning_NET\Source_code\LINQ\TH\obj\Debug\net7.0\TH.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\NCC\Trainning_NET\Source_code\LINQ\TH\obj\Debug\net7.0\TH.AssemblyInfoInputs.cache
+E:\WorkSpace\NCC\Trainning_NET\Source_code\LINQ\TH\obj\Debug\net7.0\TH.AssemblyInfo.cs
+E:\WorkSpace\NCC\Trainning_NET\Source_code\LINQ\TH\obj\Debug\net7.0\TH.csproj.CoreCompileInputs.cache
+E:\WorkSpace\NCC\Trainning_NET\Source_code\LINQ\TH\obj\Debug\net7.0\TH.dll
+E:\WorkSpace\NCC\Trainning_NET\Source_code\LINQ\TH\obj\Debug\net7.0\refint\TH.dll
+E:\WorkSpace\NCC\Trainning_NET\Source_code\LINQ\TH\obj\Debug\net7.0\TH.pdb
+E:\WorkSpace\NCC\Trainning_NET\Source_code\LINQ\TH\obj\Debug\net7.0\TH.genruntimeconfig.cache
+E:\WorkSpace\NCC\Trainning_NET\Source_code\LINQ\TH\obj\Debug\net7.0\ref\TH.dll

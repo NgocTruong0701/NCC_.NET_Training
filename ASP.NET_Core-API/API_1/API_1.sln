@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API_1", "API_1.csproj", "{1BEF48B5-02C7-4280-AA5E-08DA7448FCCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client_API_1", "..\Client_API_1\Client_API_1.csproj", "{654C0E22-FCDB-44E8-A8A3-5494A1F83C4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BEF48B5-02C7-4280-AA5E-08DA7448FCCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BEF48B5-02C7-4280-AA5E-08DA7448FCCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BEF48B5-02C7-4280-AA5E-08DA7448FCCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BEF48B5-02C7-4280-AA5E-08DA7448FCCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{654C0E22-FCDB-44E8-A8A3-5494A1F83C4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{654C0E22-FCDB-44E8-A8A3-5494A1F83C4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{654C0E22-FCDB-44E8-A8A3-5494A1F83C4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{654C0E22-FCDB-44E8-A8A3-5494A1F83C4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97E52A0B-FB36-405B-BC0F-0326C3451D02}
+	EndGlobalSection
+EndGlobal

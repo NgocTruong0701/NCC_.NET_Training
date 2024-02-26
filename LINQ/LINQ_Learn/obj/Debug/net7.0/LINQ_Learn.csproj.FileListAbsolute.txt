@@ -1,0 +1,15 @@
+E:\WorkSpace\NCC\Trainning_NET\Source_code\LINQ\LINQ_Learn\bin\Debug\net7.0\LINQ_Learn.exe
+E:\WorkSpace\NCC\Trainning_NET\Source_code\LINQ\LINQ_Learn\bin\Debug\net7.0\LINQ_Learn.deps.json
+E:\WorkSpace\NCC\Trainning_NET\Source_code\LINQ\LINQ_Learn\bin\Debug\net7.0\LINQ_Learn.runtimeconfig.json
+E:\WorkSpace\NCC\Trainning_NET\Source_code\LINQ\LINQ_Learn\bin\Debug\net7.0\LINQ_Learn.dll
+E:\WorkSpace\NCC\Trainning_NET\Source_code\LINQ\LINQ_Learn\bin\Debug\net7.0\LINQ_Learn.pdb
+E:\WorkSpace\NCC\Trainning_NET\Source_code\LINQ\LINQ_Learn\obj\Debug\net7.0\LINQ_Learn.csproj.AssemblyReference.cache
+E:\WorkSpace\NCC\Trainning_NET\Source_code\LINQ\LINQ_Learn\obj\Debug\net7.0\LINQ_Learn.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\NCC\Trainning_NET\Source_code\LINQ\LINQ_Learn\obj\Debug\net7.0\LINQ_Learn.AssemblyInfoInputs.cache
+E:\WorkSpace\NCC\Trainning_NET\Source_code\LINQ\LINQ_Learn\obj\Debug\net7.0\LINQ_Learn.AssemblyInfo.cs
+E:\WorkSpace\NCC\Trainning_NET\Source_code\LINQ\LINQ_Learn\obj\Debug\net7.0\LINQ_Learn.csproj.CoreCompileInputs.cache
+E:\WorkSpace\NCC\Trainning_NET\Source_code\LINQ\LINQ_Learn\obj\Debug\net7.0\LINQ_Learn.dll
+E:\WorkSpace\NCC\Trainning_NET\Source_code\LINQ\LINQ_Learn\obj\Debug\net7.0\refint\LINQ_Learn.dll
+E:\WorkSpace\NCC\Trainning_NET\Source_code\LINQ\LINQ_Learn\obj\Debug\net7.0\LINQ_Learn.pdb
+E:\WorkSpace\NCC\Trainning_NET\Source_code\LINQ\LINQ_Learn\obj\Debug\net7.0\LINQ_Learn.genruntimeconfig.cache
+E:\WorkSpace\NCC\Trainning_NET\Source_code\LINQ\LINQ_Learn\obj\Debug\net7.0\ref\LINQ_Learn.dll
